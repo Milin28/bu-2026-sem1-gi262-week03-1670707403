@@ -31,6 +31,11 @@ public class Character : Identity
             {
                 mapGenerator.walls[toX, toY].Hit();
             }
+            else if (IsExit(toX, toY))
+            {
+                mapGenerator.Exit.Hit();
+
+            }
         }
         else
         {
@@ -113,8 +118,8 @@ public class Character : Identity
 
     public bool IsExit(int x, int y)
     {
-        // int mapData = mapGenerator.GetMapData(x, y);
-        // return mapData == mapGenerator.exit;
+        var mapData = mapGenerator.GetMapData(x, y);
+        return mapData == mapGenerator.exit;
         return false;
     }
 
