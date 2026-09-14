@@ -1,7 +1,7 @@
 using System.Globalization;
 using UnityEngine;
 
-namespace Assignment.StudentSolution.LCT03
+namespace Assignment03.StudentSolution.LCT03
 {
     public class Animal
     {

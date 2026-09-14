@@ -1,7 +1,7 @@
 using UnityEngine;
 
 
-namespace Assignment.StudentSolution.LCT01
+namespace Assignment03.StudentSolution.LCT01
 {
     public class Car
     {

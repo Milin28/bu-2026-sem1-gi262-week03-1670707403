@@ -1,7 +1,7 @@
 using UnityEngine;
 
 
-namespace Assignment.StudentSolution.LCT05
+namespace Assignment03.StudentSolution.LCT05
 {
     public class Animal
     {

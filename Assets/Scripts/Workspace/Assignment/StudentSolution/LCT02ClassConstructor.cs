@@ -3,7 +3,7 @@ using UnityEngine;
 
 
 // SKIP Lecture ...
-namespace Assignment.StudentSolution.LCT02
+namespace Assignment03.StudentSolution.LCT02
 {
     public class Dog
     {

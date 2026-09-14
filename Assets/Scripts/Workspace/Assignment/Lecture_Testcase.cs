@@ -7,11 +7,11 @@ using UnityEngine.TestTools;
 using System;
 using System.Reflection;
 
-using LCT01 = Assignment.StudentSolution.LCT01;
-using LCT02 = Assignment.StudentSolution.LCT02;
-using LCT03 = Assignment.StudentSolution.LCT03;
-using LCT04 = Assignment.StudentSolution.LCT04;
-using LCT05 = Assignment.StudentSolution.LCT05;
+using LCT01 = Assignment03.StudentSolution.LCT01;
+using LCT02 = Assignment03.StudentSolution.LCT02;
+using LCT03 = Assignment03.StudentSolution.LCT03;
+using LCT04 = Assignment03.StudentSolution.LCT04;
+using LCT05 = Assignment03.StudentSolution.LCT05;
 
 namespace Assignment
 {

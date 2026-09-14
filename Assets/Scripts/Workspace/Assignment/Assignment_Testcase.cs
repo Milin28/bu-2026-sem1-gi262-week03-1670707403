@@ -7,18 +7,18 @@ using UnityEngine.TestTools;
 using System;
 using System.Reflection;
 
-using Assignment.StudentSolution;
-using LCT01 = Assignment.StudentSolution.LCT01;
-using LCT02 = Assignment.StudentSolution.LCT02;
-using LCT03 = Assignment.StudentSolution.LCT03;
-using LCT04 = Assignment.StudentSolution.LCT04;
-using LCT05 = Assignment.StudentSolution.LCT05;
+using Assignment03.StudentSolution;
+using LCT01 = Assignment03.StudentSolution.LCT01;
+using LCT02 = Assignment03.StudentSolution.LCT02;
+using LCT03 = Assignment03.StudentSolution.LCT03;
+using LCT04 = Assignment03.StudentSolution.LCT04;
+using LCT05 = Assignment03.StudentSolution.LCT05;
 
 namespace Assignment
 {
     public class Assignment_Testcase
     {
-        private const string namespaceName = "Assignment.StudentSolution";
+        private const string namespaceName = "Assignment03.StudentSolution";
         // private const string namespaceName = "Assignment03.FinalSolution";
 
         private readonly string[] expectedClasses = {
